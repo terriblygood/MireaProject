@@ -1,0 +1,10 @@
+.mainContent {
+  flex-grow: 1;
+  overflow-y: auto;
+  margin-right:5rem;
+  gap: 1rem;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
